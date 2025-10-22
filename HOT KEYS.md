@@ -32,6 +32,8 @@
 
 ###### 
 
+###### **Shift** + **Strg** + **N** = Neuen Ordner erstellen
+
 ###### **Strg** + **Win**-Taste + **N** = Einstellungen
 
 ###### 
@@ -76,7 +78,7 @@
 
 
 
-
+###### **Strg** + **Shift** + **Esc**  = Task-Manager
 
 
 
@@ -263,6 +265,7 @@
 
 
 ###### Strg + Leertaste = System.out.println
+
 
 
 
