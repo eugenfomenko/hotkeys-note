@@ -104,9 +104,11 @@
 
 ###### **Stgr** + **P** = öffnet „Backstage“-Ansicht mit eingebetteter Vorschau
 
-
-
 ###### **Alt** + **F7** = Rechtschreibprüfung deaktivieren
+
+###### **F12** = Speichern unter ######
+
+###### **Strg** + **P** = Drucken ######
 
 
 
@@ -265,6 +267,7 @@
 
 
 ###### Strg + Leertaste = System.out.println
+
 
 
 
