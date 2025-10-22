@@ -1,117 +1,84 @@
-### **WINDOWS 10/11**
+#### **WINDOWS 10/11**
 
 
 
 
 
-###### **Win** + **Shift** + **S** = Bildschirmaufnahme
+###### **Win** + **Shift** + **S** = `Bildschirmaufnahme`
 
 
 
-###### **Alt** + **Tab** = Fenster umschalten
+###### **Alt** + **Tab** = `Fenster umschalten`
 
 
 
-###### **Str** + **A** = Alles markieren
-
-###### 
-
-###### **Strg** + **S** = Speichern
+###### **Str** + **A** = `Alles markieren`
 
 ###### 
 
-###### **F2** = Umbenennen
+###### **Strg** + **S** = `Speichern`
 
 ###### 
 
-###### **Strg** + **O** = Öffnen
+###### **F2** = `Umbenennen`
 
 ###### 
 
-###### **Win** + **E** = Explorer aufrufen
+###### **Strg** + **O** = `Öffnen`
 
 ###### 
 
-###### **Shift** + **Strg** + **N** = Neuen Ordner erstellen
-
-###### **Strg** + **Win**-Taste + **N** = Einstellungen
+###### **Win** + **E** = `Explorer aufrufen`
 
 ###### 
 
-###### **Win** + **I** = Einstellungen (PC Namen anzeigen)
+###### **Shift** + **Strg** + **N** = `Neuen Ordner erstellen`
+
+###### **Strg** + **Win**-Taste + **N** = `Einstellungen`
 
 ###### 
 
-###### **Win** + **R** = Ausführen -> "**control**" = Systemsteuerung
+###### **Win** + **I** = vEinstellungen (PC Namen anzeigen)`
 
 ###### 
 
-###### **Win** + **R** = Ausführen -> "**gpedit.msc**" = Gruppenrichtlinien-Editor
-
-
-
-###### **Win** + **R** = Ausführen -> "**services.msc**" = "Dienste"-Verwaltung
+###### **Win** + **R** = `Ausführen` -> "**control**" = `Systemsteuerung`
 
 ###### 
 
-###### **Win** + **R** = Ausführen -> "**sysdm.cpl**" = "Dienste"-Verwaltung
+###### **Win** + **R** = `Ausführen` -> "**gpedit.msc**" = `Gruppenrichtlinien-Editor`
 
 
 
-###### **Win** + **R** = Ausführen -> "**appwiz.cpl**" = Programm deinstalliren oder ändern \[alte Systemsteuerung]
-
-
-
-###### **Win** + **R** = Ausführen -> "**regedit**" = "Registrierung"-Editor
-
-
-
-###### **Win** + **X** -> zweimal **R** = Startmenü -> Herunterfahren
-
-
-
-###### **Alt** + **F4** = PC herunterfahren
-
-
-
-###### **Win** + **X** = "Schnellzugriff"-Menü
-
-
-
-###### **Strg** + **Shift** + **Esc**  = Task-Manager
-
-
-
-
-
-
-
-
-
-
-
-
-
-### **WORD**
-
-
-
-
-
-###### **Stgr** + **F** = Navigation
+###### **Win** + **R** = `Ausführen` -> "**services.msc**" = `Dienste-Verwaltung`
 
 ###### 
 
-###### **Stgr** + **P** = öffnet „Backstage“-Ansicht mit eingebetteter Vorschau
-
-###### **Alt** + **F7** = Rechtschreibprüfung deaktivieren
-
-###### **F12** = Speichern unter ######
-
-###### **Strg** + **P** = Drucken ######
+###### **Win** + **R** = `Ausführen` -> "**sysdm.cpl**" = `Dienste-Verwaltung`
 
 
 
+###### **Win** + **R** = `Ausführen` -> "**appwiz.cpl**" = `Programm deinstalliren oder ändern \[alte Systemsteuerung]`
+
+
+
+###### **Win** + **R** = `Ausführen` -> "**regedit**" = `"Registrierung"-Editor`
+
+
+
+###### **Win** + **X** -> `zweimal` **R** = `Startmenü` -> `Herunterfahren`
+
+
+
+###### **Alt** + **F4** = `PC herunterfahren`
+
+
+
+###### **Win** + **X** = `"Schnellzugriff"-Menü`
+
+
+
+###### **Strg** + **Shift** + **Esc**  = `Task-Manager`
 
 
 
@@ -124,7 +91,39 @@
 
 
 
-### **NOTEPAD++**
+
+#### **WORD**
+
+
+
+
+
+###### **Stgr** + **F** = `Navigation`
+
+###### 
+
+###### **Stgr** + **P** = `Drucken.` `Öffnet „Backstage“-Ansicht mit eingebetteter Vorschau` ######
+
+###### **Alt** + **F7** = `Rechtschreibprüfung deaktivieren`
+
+###### **F12** = `Speichern unter` ######
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### **NOTEPAD++**
 
 
 
@@ -152,7 +151,7 @@
 
 
 
-### **FIREFOX**
+#### **FIREFOX**
 
 
 
@@ -184,7 +183,7 @@
 
 
 
-### **VISUAL STUDIO CODE**
+#### **VISUAL STUDIO CODE**
 
 
 
@@ -231,7 +230,7 @@
 
 
 
-### AZURE (SQL)
+#### AZURE (SQL)
 
 
 
@@ -255,9 +254,8 @@
 
 
 
-### ECLIPSE (Java)
+#### ECLIPSE (Java)
 
-###### ----------------------
 
 
 
@@ -266,6 +264,7 @@
 
 
 ###### Strg + Leertaste = System.out.println
+
 
 
 
