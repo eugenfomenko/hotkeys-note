@@ -78,6 +78,10 @@
 
 
 
+###### **Win** + **E** = `"Explorer Fenster aufrufen`
+
+
+
 ###### **Strg** + **Shift** + **Esc**  = `Task-Manager`
 
 
@@ -264,6 +268,7 @@
 
 
 ###### Strg + Leertaste = System.out.println
+
 
 
 
