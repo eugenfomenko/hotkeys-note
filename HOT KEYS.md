@@ -78,7 +78,7 @@
 
 
 
-###### **Win** + **E** = `"Explorer Fenster aufrufen`
+###### **Win** + **E** = `Explorer Fenster aufrufen`
 
 
 
@@ -268,6 +268,7 @@
 
 
 ###### Strg + Leertaste = System.out.println
+
 
 
 
