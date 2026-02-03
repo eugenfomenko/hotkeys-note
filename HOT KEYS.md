@@ -86,6 +86,10 @@
 
 
 
+###### **Alt** + **F4** = `schließen oder herunterfahren`
+
+
+
 
 
 
@@ -268,6 +272,7 @@
 
 
 ###### Strg + Leertaste = System.out.println
+
 
 
 
