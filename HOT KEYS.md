@@ -116,6 +116,8 @@
 
 ###### **F12** = `Speichern unter` ######
 
+###### **Stgr** + **F2** = `Vorschau`
+
 
 
 
