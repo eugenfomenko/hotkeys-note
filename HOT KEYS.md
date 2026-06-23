@@ -82,11 +82,17 @@
 
 
 
+###### **Win** + **Pause** = `PC Name anzeigen`
+
+
+
 ###### **Strg** + **Shift** + **Esc**  = `Task-Manager`
 
 
 
 ###### **Alt** + **F4** = `schließen oder herunterfahren`
+
+
 
 
 
