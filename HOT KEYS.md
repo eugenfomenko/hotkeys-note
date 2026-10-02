@@ -98,6 +98,10 @@
 
 
 
+###### **Win** + **Pfeil nach unten** + **Pfeil nach unten**  = `Minimieren des aktiven Google Chrome-Fensters unter Windows`
+
+
+
 
 
 
