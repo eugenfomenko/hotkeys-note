@@ -90,10 +90,11 @@
 
 
 
-###### **Alt** + **F4** = `schließen oder herunterfahren`
+###### **Alt** + **F4** = `Schließen oder herunterfahren`
 
 
 
+###### **Alt** + **Space** + **N**  = `Minimieren des aktiven Google Chrome-Fensters unter Windows`
 
 
 
