@@ -102,6 +102,10 @@
 
 
 
+###### **Strg** + **Shift** + **Enter**  = `Wenn du vorher bei Windows + R powershell eingegeben hast, öffnet diese Kombination PowerShell als Administrator. Die anschließende Nachfrage bestätigst du mit Ja.`
+
+
+
 
 
 
