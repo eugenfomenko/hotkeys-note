@@ -293,6 +293,24 @@
 
 
 
+#### MAC\DE-Tastatut
+
+
+
+###### command + control + shift +4 = Bildschirmaufnahme
+
+
+
+###### command + control + shift +4 = Bildschirmaufnahme
+
+
+
+option + shift +7 = \
+
+
+
+shift + ]} = *
+
 
 
 
