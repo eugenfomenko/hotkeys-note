@@ -301,15 +301,11 @@
 
 
 
-###### command + control + shift +4 = Bildschirmaufnahme
+###### option + shift +7 = \
 
 
 
-option + shift +7 = \
-
-
-
-shift + ]} = *
+###### shift + ]} = *
 
 
 
